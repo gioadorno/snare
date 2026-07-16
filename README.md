@@ -1,5 +1,8 @@
 # snare 🪤
 
+> 📖 **Real-World Usage:** Check out [EXAMPLES.md](EXAMPLES.md) for practical FDE workflows and terminal outputs.
+
+
 **The Local Webhook Interceptor & Replayer**
 
 ## Overview
