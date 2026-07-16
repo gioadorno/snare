@@ -19,8 +19,8 @@ import (
 var db *sql.DB
 
 var rootCmd = &cobra.Command{
-	Use:   "net-trap",
-	Short: "net-trap is a local webhook interceptor and replayer",
+	Use:   "snare",
+	Short: "snare is a local webhook interceptor and replayer",
 }
 
 func initDB() {

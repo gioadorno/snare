@@ -1,4 +1,4 @@
-module github.com/gioadorno/net-trap
+module github.com/gioadorno/snare
 
 go 1.26.5
 

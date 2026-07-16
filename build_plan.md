@@ -1,4 +1,4 @@
-# Build Plan: net-trap
+# Build Plan: snare
 
 ## Step 1: HTTP Interceptor Core
 *   Scaffold standard `net/http` server with a catch-all route (`/`).
